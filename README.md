@@ -18,7 +18,10 @@ I worked on multiple real-world scenarios including importing data from differen
 - Power Query  
 
 ## Repository Structure
-- Power Query Files: Contains individual Excel files demonstrating specific Power Query concepts  
-- README.md: Project overview and details  
+- PowerQuery-Part1.zip, PowerQuery-Part2.zip, PowerQuery-Part3.zip  
+  Contains all Excel Power Query practice files, split into multiple archives due to GitHub file size limitations.
+
+- README.md  
+  Project overview and details  
 
 This repository represents my continuous learning and practical application of Excel Power Query concepts used in real-world data analysis tasks.
