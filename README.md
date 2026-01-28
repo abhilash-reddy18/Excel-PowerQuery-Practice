@@ -1,5 +1,8 @@
 # Excel Power Query Practice
 
+![Power Query Example](screenshots/power-query-editor.png)
+
+
 This repository contains my hands-on practice work using Microsoft Excel Power Query.
 
 I worked on multiple real-world scenarios including importing data from different sources, cleaning and transforming data, and combining datasets for analysis.
